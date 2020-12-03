@@ -8,5 +8,15 @@
     "Id": "2",
     "Deleted": "False",
     "Name": "Kage"
+  },
+  {
+    "Id": "3",
+    "Deleted": "False",
+    "Name": "Vegetar"
+  },
+  {
+    "Id": "4",
+    "Deleted": "False",
+    "Name": "Pizza"
   }
 ]
