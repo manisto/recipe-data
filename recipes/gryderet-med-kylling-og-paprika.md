@@ -1,0 +1,28 @@
+---
+
+layout: recipe
+title: "Gryderet med kylling og paprika"
+image: gryderet-med-kylling-og-paprika.jpg
+isBasedOn: https://www.madling.dk/gryderet-med-kylling-og-paprika/
+tags: aftensmad, gryderet, kylling, svinekød
+
+ingredients:
+- 1 løg
+- Smør til stegning
+- 650 g kyllingefilet
+- 200 g cocktailpølser
+- 1,5 tsk paprika
+- 300 ml flødefraiche
+- 1,5 dl sødmælk
+- Salt og peber
+
+directions:
+- Skær kyllingen ud i mindre stykker, og cocktailpølserne over i halve.
+- Hak løget fint og svits det i en gryde med smør. Tilsæt kyllingen og pølserne, og vend det hele godt rundt i gryden.
+- Når kyllingen er gennemstegt tilsættes paprika og tomatpuré.
+- Hæld først flødefraichen i gryden, og derefter mælken lidt af gangen, imens retten får lov at simre ved middel varme.
+- Smag gryderetten til med salt og peber, og server den sammen med det ønskede tilbehør.
+
+---
+
+En nem og hurtig gryderet. Serveres med ris til.

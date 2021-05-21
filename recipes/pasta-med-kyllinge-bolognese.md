@@ -1,0 +1,31 @@
+---
+
+layout: recipe
+title: "Pasta med kyllinge-bolognese"
+image: pasta-med-kyllinge-bolognese.jpg
+isBasedOn: https://spisbedre.dk/opskrifter/pasta-med-kyllinge-bolognese
+tags: aftensmad, gryderet, kylling, børnevenlig
+
+ingredients:
+- 500 g hakket kylling
+- 1 løg
+- 3 fed hvidløg
+- 2 stilke bladselleri
+- 2 gulerødder
+- 1 spsk tørret oregano
+- 1 spsk tørret basilikum
+- Salt og peber
+- 1 dåse hakkede tomater
+- 70 g koncentreret tomatpuré
+- 2 spsk rødvinseddike
+
+directions:
+- Tag kødet ud af køleskabet. Pil og hak løget. Pil og pres hvidløg. Skyl og snit bladselleri i tynde skiver.
+- Steg løg, hvidløg og bladselleri i olie i en gryde, indtil løgene er gennemsigtige. Skræl og riv gulerødderne groft, og tilsæt dem.
+- Steg, indtil grøntsagerne falder lidt sammen, og tilsæt kød, oregano, basilikum, salt og peber. Steg, indtil kødet er brunet.
+- Hæld hakkede tomater og tomatpuré i gryden, rør rundt, og læg låg på.
+- Lad kødsaucen simre i mindst 30 minutter, gerne op til et par timer, inden du smager til med rødvinseddike og mere salt og peber.
+
+---
+
+En nem og børnevenlig ret. Serveres med spaghetti, friskrevet parmesan og frisk basilikum.

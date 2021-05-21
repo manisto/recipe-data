@@ -1,0 +1,25 @@
+---
+
+layout: recipe
+title: "Mormors vafler"
+image: mormors-vafler.jpg
+tags: kage, dessert, bagværk
+
+ingredients:
+- 250 g mel
+- 1 tsk natron
+- 1 knsp salt
+- 5 dl ymer
+- 125 g smeltet smør
+- 2 dl mælk
+- 5 æggeblommer
+- 5 æggehvider
+
+directions:
+- Put mel, natron, salt, ymer, smør, æggeblommer og mælk i en skål, og rør godt rundt.
+- Pisk æggehviderne stive i en anden skål, og vend dem forsigtigt i blandingen.
+- Bag vaflerne i et vaffeljern ved høj varme.
+
+---
+
+Verdens bedste vafler.
